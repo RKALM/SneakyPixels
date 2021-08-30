@@ -1,5 +1,5 @@
 # SneakyPixels
-Arduino project. with a simple "Flappy Bird" alike game. That was created By Lavdim Imeri and Robert Alm for the "Digital Electronics" class of our Bachellor Programme of Kristandstad University in Sweden, (https://www.hkr.se).
+Arduino project. with a simple "Flappy Bird" alike game that was created By Lavdim Imeri and Robert Alm for the "Digital Electronics" class of our Bachellor Programme of Kristandstad University in Sweden, (https://www.hkr.se).
 Feel free to browse the images and presentation file inside the repository.
 
 ## THE GAME IS MEANT TO BE LIKE FLAPPY BIRD
